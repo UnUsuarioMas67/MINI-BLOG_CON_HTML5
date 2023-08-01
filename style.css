@@ -169,7 +169,7 @@ body {
     object-position: middle;
   }
 
-  img.img-integrante {
+  article>img {
     width: 400px;
     height: 300px;
     object-fit: cover;
